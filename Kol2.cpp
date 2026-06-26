@@ -1,9 +1,9 @@
 #include "Wybor.h"
-
+#include "OknoGraficzne.h"
 using namespace std;
 
 /*
-* Uwaga: Zadania kod rozwiazania zaania umieszczaæ pomiêdzy #ifdef a #endif.
+* Uwaga: Zadania kod rozwiazania zaania umieszczaÄ‡ pomiÄ™dzy #ifdef a #endif.
 */
 
 #ifdef Kol_2
